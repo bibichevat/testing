@@ -1,0 +1,5 @@
+com\tests\main\CatalogTest.class
+com\tests\main\LoginTest.class
+com\tests\main\PriceTest.class
+com\tests\AbstractTest.class
+listener\ScreenListener.class

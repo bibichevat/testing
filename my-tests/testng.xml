@@ -1,0 +1,19 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="EGT">
+    <test name="MainPage">
+        <classes>
+            <class name="com.tests.main.LoginTest"/>
+        </classes>
+    </test>
+<!--    <test name="CatalogPage">-->
+<!--        <classes>-->
+<!--            <class name="com.tests.main.CatalogTest"/>-->
+<!--        </classes>-->
+<!--    </test>-->
+<!--    <test name="PricePage">-->
+<!--        <parameter name="price" value="1000"/>-->
+<!--        <classes>-->
+<!--            <class name="com.tests.main.PriceTest"/>-->
+<!--        </classes>-->
+<!--    </test>-->
+</suite>

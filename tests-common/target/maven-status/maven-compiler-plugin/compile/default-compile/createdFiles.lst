@@ -1,0 +1,9 @@
+com\pages\services\PricePageObject.class
+com\annotations\TestCaseID.class
+com\pages\AbstractPageObject.class
+com\webdriver\WebdriverHelper.class
+com\pages\main\MainPageObject.class
+com\pages\services\WishListPageObject.class
+com\pages\main\CatalogPageObject.class
+com\pages\services\FilterPageObject.class
+com\webdriver\BaseSelenium.class

@@ -1,0 +1,1 @@
+{"uuid":"2d6d0f94-1ee9-4060-b88a-4eb777233bf3","name":"EGT","start":1617896133553,"stop":1617896195766,"children":["114500ec-88f8-4ca5-b1b6-f23a01d24c8f"],"befores":[{"name":"initSelenium","status":"passed","stage":"finished","description":"","start":1617896133622,"stop":1617896139370}]}

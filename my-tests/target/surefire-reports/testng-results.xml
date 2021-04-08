@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="EGT" duration-ms="38868" started-at="2021-04-08T15:51:43Z" finished-at="2021-04-08T15:52:22Z">
+    <groups>
+    </groups>
+    <test name="MainPage" duration-ms="38868" started-at="2021-04-08T15:51:43Z" finished-at="2021-04-08T15:52:22Z">
+      <class name="com.tests.main.LoginTest">
+        <test-method status="PASS" signature="initSelenium()[pri:0, instance:com.tests.main.LoginTest@2783717b]" name="initSelenium" is-config="true" duration-ms="5732" started-at="2021-04-08T15:51:37Z" finished-at="2021-04-08T15:51:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initSelenium -->
+        <test-method status="PASS" signature="login()[pri:0, instance:com.tests.main.LoginTest@2783717b]" name="login" is-config="true" duration-ms="6388" started-at="2021-04-08T15:51:43Z" finished-at="2021-04-08T15:51:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="preparation()[pri:0, instance:com.tests.main.LoginTest@2783717b]" name="preparation" is-config="true" duration-ms="13775" started-at="2021-04-08T15:51:50Z" finished-at="2021-04-08T15:52:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- preparation -->
+        <test-method status="PASS" signature="checkLogin()[pri:1, instance:com.tests.main.LoginTest@2783717b]" name="checkLogin" duration-ms="4670" started-at="2021-04-08T15:52:04Z" description="Авторизация" finished-at="2021-04-08T15:52:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkLogin -->
+        <test-method status="PASS" signature="logout()[pri:0, instance:com.tests.main.LoginTest@2783717b]" name="logout" is-config="true" duration-ms="13710" started-at="2021-04-08T15:52:08Z" finished-at="2021-04-08T15:52:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logout -->
+        <test-method status="PASS" signature="closeSelenium()[pri:0, instance:com.tests.main.LoginTest@2783717b]" name="closeSelenium" is-config="true" duration-ms="646" started-at="2021-04-08T15:52:22Z" finished-at="2021-04-08T15:52:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeSelenium -->
+      </class> <!-- com.tests.main.LoginTest -->
+    </test> <!-- MainPage -->
+  </suite> <!-- EGT -->
+</testng-results>
