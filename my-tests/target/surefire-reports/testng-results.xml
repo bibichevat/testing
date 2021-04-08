@@ -2,32 +2,32 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="EGT" duration-ms="40363" started-at="2021-04-08T17:30:47Z" finished-at="2021-04-08T17:31:27Z">
+  <suite name="EGT" duration-ms="40880" started-at="2021-04-08T22:01:17Z" finished-at="2021-04-08T22:01:58Z">
     <groups>
     </groups>
-    <test name="MainPage" duration-ms="40363" started-at="2021-04-08T17:30:47Z" finished-at="2021-04-08T17:31:27Z">
+    <test name="MainPage" duration-ms="40880" started-at="2021-04-08T22:01:17Z" finished-at="2021-04-08T22:01:58Z">
       <class name="com.tests.main.LoginTest">
-        <test-method status="PASS" signature="initSelenium()[pri:0, instance:com.tests.main.LoginTest@10993713]" name="initSelenium" is-config="true" duration-ms="4658" started-at="2021-04-08T17:30:42Z" finished-at="2021-04-08T17:30:47Z">
+        <test-method status="PASS" signature="initSelenium()[pri:0, instance:com.tests.main.LoginTest@726e5805]" name="initSelenium" is-config="true" duration-ms="4447" started-at="2021-04-08T22:01:13Z" finished-at="2021-04-08T22:01:17Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- initSelenium -->
-        <test-method status="PASS" signature="login()[pri:0, instance:com.tests.main.LoginTest@10993713]" name="login" is-config="true" duration-ms="7266" started-at="2021-04-08T17:30:47Z" finished-at="2021-04-08T17:30:54Z">
+        <test-method status="PASS" signature="login()[pri:0, instance:com.tests.main.LoginTest@726e5805]" name="login" is-config="true" duration-ms="6664" started-at="2021-04-08T22:01:18Z" finished-at="2021-04-08T22:01:24Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- login -->
-        <test-method status="PASS" signature="preparation()[pri:0, instance:com.tests.main.LoginTest@10993713]" name="preparation" is-config="true" duration-ms="14210" started-at="2021-04-08T17:30:54Z" finished-at="2021-04-08T17:31:09Z">
+        <test-method status="PASS" signature="preparation()[pri:0, instance:com.tests.main.LoginTest@726e5805]" name="preparation" is-config="true" duration-ms="13087" started-at="2021-04-08T22:01:24Z" finished-at="2021-04-08T22:01:37Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- preparation -->
-        <test-method status="PASS" signature="checkLogin()[pri:1, instance:com.tests.main.LoginTest@10993713]" name="checkLogin" duration-ms="4594" started-at="2021-04-08T17:31:09Z" description="Авторизация" finished-at="2021-04-08T17:31:13Z">
+        <test-method status="PASS" signature="checkLogin()[pri:1, instance:com.tests.main.LoginTest@726e5805]" name="checkLogin" duration-ms="4264" started-at="2021-04-08T22:01:38Z" description="Авторизация" finished-at="2021-04-08T22:01:42Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- checkLogin -->
-        <test-method status="PASS" signature="logout()[pri:0, instance:com.tests.main.LoginTest@10993713]" name="logout" is-config="true" duration-ms="13967" started-at="2021-04-08T17:31:13Z" finished-at="2021-04-08T17:31:27Z">
+        <test-method status="PASS" signature="logout()[pri:0, instance:com.tests.main.LoginTest@726e5805]" name="logout" is-config="true" duration-ms="16480" started-at="2021-04-08T22:01:42Z" finished-at="2021-04-08T22:01:58Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- logout -->
-        <test-method status="PASS" signature="closeSelenium()[pri:0, instance:com.tests.main.LoginTest@10993713]" name="closeSelenium" is-config="true" duration-ms="783" started-at="2021-04-08T17:31:27Z" finished-at="2021-04-08T17:31:28Z">
+        <test-method status="PASS" signature="closeSelenium()[pri:0, instance:com.tests.main.LoginTest@726e5805]" name="closeSelenium" is-config="true" duration-ms="791" started-at="2021-04-08T22:01:58Z" finished-at="2021-04-08T22:01:59Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- closeSelenium -->

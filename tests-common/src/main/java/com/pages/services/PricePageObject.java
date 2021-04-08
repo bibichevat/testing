@@ -73,9 +73,10 @@ public class PricePageObject extends AbstractPageObject {
                 );
             }
 
-            if (i < lastPage)
+            if (i < lastPage) {
                 scroll(nextPage, "next");
                 nextPage.click();
+            }
         }
     }
 }
